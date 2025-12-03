@@ -1,0 +1,15 @@
+﻿{
+  "appId": "com.zawoja.babiagora",
+  "appName": "Zawoja System",
+  "webDir": "build",
+  "server": {
+    "androidScheme": "https",
+    "cleartext": true
+  },
+  "android": {
+    "buildOptions": {
+      "keystorePath": "",
+      "keystoreAlias": ""
+    }
+  }
+}
